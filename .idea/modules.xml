@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/ProtobufTest.iml" filepath="$PROJECT_DIR$/ProtobufTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/protobuf/protobuf.iml" filepath="$PROJECT_DIR$/protobuf/protobuf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/protobuf_android_sample.iml" filepath="$PROJECT_DIR$/protobuf_android_sample.iml" />
     </modules>
   </component>
 </project>
